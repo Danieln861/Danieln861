@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danieln861
 - 👀 I’m interested in ICT/Media Design 
-- 🌱 I’m currently learning Web Developement
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +234 803 232 6832
 
